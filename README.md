@@ -2,4 +2,4 @@
 
 Simple photography website using HTML & CSS.
 
-This project is built to improve front-end development skills and demonstrate the ability to create modern UI designs using only HTML and CSS.
+This Mini project is built to improve front-end development skills and demonstrate the ability to create modern UI designs using only HTML and CSS.
