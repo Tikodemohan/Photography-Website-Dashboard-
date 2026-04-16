@@ -1,4 +1,4 @@
-# Photography-Website-Dashboard
+# Photography-Website.
 
 Simple photography website using HTML & CSS.
 
